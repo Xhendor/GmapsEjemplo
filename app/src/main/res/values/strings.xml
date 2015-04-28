@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GmapsEjemplo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gmaps_ejemplo1">GmapsEjemplo1</string>
+    <string name="title_activity_gmaps_ejemplo2">GmapsEjemplo2</string>
+    <string name="title_activity_gmaps_ejemplo3">GmapsEjemplo3</string>
+
+</resources>
